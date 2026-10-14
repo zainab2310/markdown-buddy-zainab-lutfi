@@ -1,6 +1,7 @@
 # Reflection – Markdown Buddy Assignment
 
 **Student Name:** Zainab Lutfi
+**GitHub Username:** zainab2310
 
 ### 1. How did AI help you complete this assignment?
 
