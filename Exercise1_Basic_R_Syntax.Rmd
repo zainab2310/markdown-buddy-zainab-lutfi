@@ -2,6 +2,7 @@
 title: "Puppy Budget Project"
 author: "Zainab Lutfi"
 output: html_document
+# GitHub Username: zainab2310
 ---
 
 # Basic R Syntax Exercise
