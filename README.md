@@ -1,6 +1,7 @@
 # Puppy Budget Project
 
 **Student:** Zainab Lutfi
+**GitHub:** zainab2310
 
 ## Overview
 This project uses basic R programming to calculate the cost of buying puppies and compare it with a budget.
